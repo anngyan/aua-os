@@ -8,7 +8,7 @@
 .gitconfig
 .lesshst*
 *.lesshst
-
+*.out
 
 first_file.txt
 
