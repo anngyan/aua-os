@@ -20,7 +20,7 @@ A C-based Process Scheduling Simulator implementing two classic CPU scheduling a
 - **Completion Time ($CT$)**: Time at which process finishes execution.
 - **Turnaround Time ($TAT$)**: $TAT = CT - AT$
 - **Waiting Time ($WT$)**: $WT = TAT - BT$
-- **Response Time ($RT$)**: $RT = \text{Start Time} - AT$ *(Equal to $WT$ for non-preemptive algorithms)*
+- **Response Time ($RT$)**: $RT = \text{Start Time} - AT$ (Equal to $WT$ for non-preemptive algorithms)
 
 ---
 
